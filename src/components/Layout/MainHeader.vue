@@ -170,11 +170,23 @@ body header nav ul li a {
   padding: 0 40px 0 0;
 }
 
+@media only screen and (max-width: 800px){
+  body header nav ul li a{
+    font-size: 20px;
+  }
+}
+
 .wrapper2 a {
   display: block;
   text-decoration: none;
   font-size: 22px;
   color: #000000;
   align-self: center;
+}
+
+@media only screen and (max-width: 800px){
+  .wrapper2 a {
+    font-size: 20px;
+  }
 }
 </style>
