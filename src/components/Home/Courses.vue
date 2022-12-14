@@ -6,13 +6,16 @@
       </div>
       <div class="course-levels">
         <div class="course-level">
-          Level 1
+          <div class="title">Occupational First Aid - Level 1 (CETA Certified)</div>
+          <div class="desc">The Occupational First Aid Training - Level 1, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
         </div>
         <div class="course-level">
-          Level 2
+          <div class="title">Occupational First Aid - Level 2 (CETA Certified)</div>
+          <div class="desc">The Occupational First Aid Training - Level 2, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
         </div>
         <div class="course-level">
-          Level 3
+          <div class="title">Occupational First Aid - Level 3 (CETA Certified)</div>
+          <div class="desc">The Occupational First Aid Training - Level 3, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
         </div>
       </div>
       <div class="course-images-row-1">
@@ -35,17 +38,6 @@
           <img :src="images.Image6" alt="">
         </div>
       </div>
-      <!-- <div class="course-images-row-2">
-        <div class="course-image-container">
-          <img :src="images.Image4" alt="">
-        </div>
-        <div class="course-image-container">
-          <img :src="images.Image5" alt="">
-        </div>
-        <div class="course-image-container">
-          <img :src="images.Image6" alt="">
-        </div>
-      </div> -->
     </div>
      <div id="about-us" class="description">
        <div class="description-paragraph">
@@ -90,49 +82,88 @@ export default {
 <style lang="scss" scoped>
 @import '../../scss/partials/variables';
 
+#courses {
+  padding: 35px 0 0;
+}
+
 .courses {
   display: flex;
   justify-content: center;
   font-size: 30px;
-  padding-top: 20px;
-  text-shadow: 1px 2px 5px #111;
+}
+
+@media only screen and (max-width: 900px){
+  .courses {
+    padding-top: 20px;
+  }
+  #courses {
+    padding: 30px 0 0;
+  }
 }
 
 .course-levels {
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
   font-size: 25px;
-  padding: 20px 100px;
+  padding: 0 100px 40px;
 }
 
 @media only screen and (max-width: 900px){
   .course-levels {
     flex-direction: column;
+    justify-content: left;
+    padding: 0 50px;
   }
+}
+
+@media only screen and (max-width: 600px){
+  .course-levels {
+    flex-direction: column;
+    padding: 20px 0;
+  }
+}
+
+.course-level {
+  padding: 20px;
+  border: 1px solid #000;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 900px){
+  .course-level {
+    margin-top: 20px;
+  }
+  .course-level:first-child {
+    margin-top: 0;
+  }
+  .course-level:last-child {
+    margin-bottom: 35px;
+  }
+}
+
+.course-level .title {
+  color: red;
+  font-family: Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  border-bottom: 1px solid #000;
+  padding-bottom: 10px;
+}
+
+.course-level .desc {
+  font-size: 16px;
+  font-weight: 600;
+  padding-top: 15px;
 }
 
 .course-images-row-1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 0 15px 20px 15px;
+  padding: 0 15px 25px 15px;
 }
-
-// .course-images-row-1 :last-child {
-//   padding-right: 0;
-// }
-
-// .course-images-row-2 {
-//   display: flex;
-//   flex-wrap: wrap;
-//   justify-content: space-around;
-//   padding: 0 15px 20px 15px;
-// }
-
-// .course-images-row-2 :last-child {
-//   padding-right: 0;
-// }
 
 .course-image-container {
   display: flex;
@@ -161,7 +192,7 @@ export default {
 
 @media only screen and (max-width: 759px){
   .description {
-    padding: 0 20px;
+    padding: 30px 15px 35px 15px;
   }
 }
 
@@ -174,6 +205,13 @@ export default {
   padding: 10px;
   color: #fff;
   font-size: 20px;
+}
+
+@media only screen and (max-width: 790px){
+  .description p {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 </style>

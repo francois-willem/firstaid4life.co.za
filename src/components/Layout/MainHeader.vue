@@ -24,7 +24,7 @@
           <img :src="images.Logo" alt="full-logo">
         </div>
 
-        <a href="#contact-us">Contact Us</a>
+        <a class="mobile__contactus" href="#contact-us">Contact Us</a>
       </div>      
     </nav>
 
@@ -66,6 +66,10 @@ export default {
 @import '../../scss/partials/variables';
 $background-color: $dark-color;
 
+header {
+  box-shadow: 0 4px 4px -2px $brand-color-2;
+}
+
 .wrapper1 {
   display: flex;
   justify-content: space-between;
@@ -80,6 +84,11 @@ $background-color: $dark-color;
 }
 
 .logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo a {
   display: flex;
   align-items: center;
 }
@@ -166,6 +175,7 @@ body header nav ul li a {
   display: block;
   text-decoration: none;
   font-size: 22px;
+  line-height: 3.2;
   color: #000000;
   padding: 0 40px 0 0;
 }
@@ -176,5 +186,9 @@ body header nav ul li a {
   font-size: 22px;
   color: #000000;
   align-self: center;
+}
+
+.mobile__contactus {
+  padding-top: 4px;
 }
 </style>

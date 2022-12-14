@@ -60,7 +60,7 @@ export default {
   padding: 20px 0;
 }
 
-.footer-container :last-child {
+.footer-container:last-child {
   padding-right: 0;
 }
 
@@ -82,6 +82,12 @@ export default {
   justify-content: space-around;
   padding: 0 15px 20px 15px;
   flex: 1;
+}
+
+@media only screen and (max-width: 790px){
+  .footer-column {
+    padding: 0 0 20px 0;
+  }
 }
 
 .footer-column p {
