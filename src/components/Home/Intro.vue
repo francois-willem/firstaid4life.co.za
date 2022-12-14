@@ -3,7 +3,7 @@
      <div id="intro" class="description">
        <div class="description-paragraph">
          <p>
-          Every business with 10 or more employees is required by Law to have a First Aider in the workplace. One qualifies by completing a First Aid – Level 1 (CETA Accredited) course and receiving the certificate.  This course introduces basic life support that should be applied, within the workplace, until emergency services arrive.
+          Every business with 10 or more employees is required by Law to have a First Aider in the workplace. One qualifies by completing a First Aid – Level 1 (CETA Accredited) course and receiving the certificate.
         </p>
        </div>
      </div>

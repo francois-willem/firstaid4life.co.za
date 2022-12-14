@@ -6,16 +6,16 @@
       </div>
       <div class="course-levels">
         <div class="course-level">
-          <div class="title">Occupational First Aid - Level 1 (CETA Certified)</div>
-          <div class="desc">The Occupational First Aid Training - Level 1, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
+          <div class="title">First Aid - Level 1 (CETA Certified)</div>
+          <div class="desc">The First Aid Training - Level 1, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments. This course introduces basic life support that should be applied, within the workplace, until emergency services arrive.</div>
         </div>
         <div class="course-level">
-          <div class="title">Occupational First Aid - Level 2 (CETA Certified)</div>
-          <div class="desc">The Occupational First Aid Training - Level 2, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
+          <div class="title">First Aid - Level 2 (CETA Certified)</div>
+          <div class="desc">The Occupational First Aid Training - Level 2, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur volutpat, metus sit amet egestas mollis, ante purus egestas odio, at consequat metus lectus nec est. Donec feugiat auctor fermentum. Suspendisse sodales lectus sem, non vehicula nunc vehicula eu.</div>
         </div>
         <div class="course-level">
-          <div class="title">Occupational First Aid - Level 3 (CETA Certified)</div>
-          <div class="desc">The Occupational First Aid Training - Level 3, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments.</div>
+          <div class="title">First Aid - Level 3 (CETA Certified)</div>
+          <div class="desc">The Occupational First Aid Training - Level 3. Mauris in porttitor erat. Nam convallis placerat purus, vitae tincidunt enim pretium a. Phasellus feugiat semper diam, quis iaculis arcu scelerisque hendrerit. Sed nisi nisi, fermentum eget magna quis, hendrerit dignissim ex. Pellentesque in tempor turpis, eget eleifend erat.</div>
         </div>
       </div>
       <div class="course-images-row-1">
