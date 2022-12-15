@@ -17,6 +17,14 @@
           <div class="title">First Aid - Level 3 (CETA Certified)</div>
           <div class="desc">The Occupational First Aid Training - Level 3. Mauris in porttitor erat. Nam convallis placerat purus, vitae tincidunt enim pretium a. Phasellus feugiat semper diam, quis iaculis arcu scelerisque hendrerit. Sed nisi nisi, fermentum eget magna quis, hendrerit dignissim ex. Pellentesque in tempor turpis, eget eleifend erat.</div>
         </div>
+        <div class="course-level">
+          <div class="title">Infant and Child Course</div>
+          <div class="desc">The Occupational First Aid Training - Level 3. Mauris in porttitor erat. Nam convallis placerat purus, vitae tincidunt enim pretium a. Phasellus feugiat semper diam, quis iaculis arcu scelerisque hendrerit. Sed nisi nisi, fermentum eget magna quis, hendrerit dignissim ex. Pellentesque in tempor turpis, eget eleifend erat.</div>
+        </div>
+        <div class="course-level">
+          <div class="title">Buddy Aid Course</div>
+          <div class="desc">The Occupational First Aid Training - Level 3. Mauris in porttitor erat. Nam convallis placerat purus, vitae tincidunt enim pretium a. Phasellus feugiat semper diam, quis iaculis arcu scelerisque hendrerit. Sed nisi nisi, fermentum eget magna quis, hendrerit dignissim ex. Pellentesque in tempor turpis, eget eleifend erat.</div>
+        </div>
       </div>
       <div class="course-images-row-1">
         <div class="course-image-container">

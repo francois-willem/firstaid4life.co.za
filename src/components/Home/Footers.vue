@@ -20,11 +20,11 @@
         </div>
         <div class="footer-column">
           <p>
-            Address
+            Area of Service
           </p>
-          <div class="item-container">Plattekloof 1,</div>
-          <div class="item-container">Northern Suburbs, </div>
-          <div class="item-container">Cape Town</div>
+          <div class="item-container">Western Cape,</div>
+          <div class="item-container">We do travel Nationally for training,</div>
+          <div class="item-container">contact us for more information.</div>
         </div>
       </div>
      </div>
