@@ -6,9 +6,9 @@
           <p>
             Contact Us
           </p>
-          <div class="item-container">Cell: 084 413 5051</div>
-          <div class="item-container">Whatsapp: 084 413 5051</div>
-          <div class="item-container">Email: ciske@firstaid4life.co.za</div>
+          <div class="item-container">Cell: 084 903 1825</div>
+          <div class="item-container">Whatsapp: 084 903 1825</div>
+          <div class="item-container">Email: christel.firstaid4life@gmail.com</div>
         </div>
         <div class="footer-column">
           <p>

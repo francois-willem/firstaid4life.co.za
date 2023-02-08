@@ -6,16 +6,35 @@
       </div>
       <div class="course-levels">
         <div class="course-level">
-          <div class="title">First Aid - Level 1 (CETA Certified)</div>
-          <div class="desc">The First Aid Training - Level 1, is the only legally required Level of First Aid Training, and therefor undergoes regular amendments. This course introduces basic life support that should be applied, within the workplace, until emergency services arrive.</div>
+          <div class="title">First Aid - Level 1 (Occupational First Aid Training)</div>
+          <div class="desc">This training is the only legally required course for workplace first aid. Regular updates ensure the course stays current with the latest amendments. This comprehensive program covers essential life-support techniques that should be implemented until emergency services arrive.
+          </div>
+          <div class="desc">
+            On completion of the training the successful delegate will receive a Certificate, and a very detailed handbook.
+          </div>
+          <div class="desc">
+            (SAQA Unit Standard 119567, NQF Level 1)
+          </div>
         </div>
         <div class="course-level">
-          <div class="title">First Aid - Level 2 (CETA Certified)</div>
+          <div class="title">First Aid - Level 2 (SETA Accredited)</div>
           <div class="desc">The Occupational First Aid Training - Level 2, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur volutpat, metus sit amet egestas mollis, ante purus egestas odio, at consequat metus lectus nec est. Donec feugiat auctor fermentum. Suspendisse sodales lectus sem, non vehicula nunc vehicula eu.</div>
+          <div class="desc">
+            On completion of the training the successful delegate will receive a Certificate, and a very detailed handbook.
+          </div>
+          <div class="desc">
+            (SAQA Unit Standard 120496, NQF Level 2)
+          </div>
         </div>
         <div class="course-level">
-          <div class="title">First Aid - Level 3 (CETA Certified)</div>
+          <div class="title">First Aid - Level 3 (SETA Accredited)</div>
           <div class="desc">The Occupational First Aid Training - Level 3. Mauris in porttitor erat. Nam convallis placerat purus, vitae tincidunt enim pretium a. Phasellus feugiat semper diam, quis iaculis arcu scelerisque hendrerit. Sed nisi nisi, fermentum eget magna quis, hendrerit dignissim ex. Pellentesque in tempor turpis, eget eleifend erat.</div>
+          <div class="desc">
+            On completion of the training the successful delegate will receive a Certificate, and a very detailed handbook.
+          </div>
+          <div class="desc">
+            (SAQA Unit Standard 254220, NQF Level 3)
+          </div>
         </div>
         <div class="course-level">
           <div class="title">Infant and Child Course</div>
@@ -53,7 +72,7 @@
           Our instructors are highly experienced and qualified to deliver anything from basic First Aid to advanced Prehospital Care training.
         </p>
         <p>
-          We have trained Teachers, Instructors, Paramedics, Nurses, Doctors, Police, Military personel, Business leaders and more.
+          We have trained Learners, Teachers, Instructors, Police, Military personnel, Business leaders and more.
         </p>
         <p>
           We aim to deliver the best training on the market, not neccesarily the cheapest, through high standards and with quality resources.
