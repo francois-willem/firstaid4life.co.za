@@ -1,7 +1,7 @@
 {
   "name": "First Aid 4 Life",
   "short_name": "First Aid 4 Life",
-  "theme_color": "#350F22",
+  "theme_color": "#ff0000",
   "background_color": "#ffffff",
   "display": "browser",
   "start_url": "/",
